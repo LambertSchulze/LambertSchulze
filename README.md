@@ -1,4 +1,6 @@
-### Hi there 👋
+<!--### Hi there 👋-->
+
+<img scr="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" />
 
 <!--
 **LambertSchulze/LambertSchulze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
