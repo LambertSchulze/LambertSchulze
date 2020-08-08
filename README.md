@@ -1,6 +1,6 @@
 <!--### Hi there 👋-->
 
-<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" align="center" width="50vw"/>
+<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" align="center" width="100vw"/>
 
 <!--
 **LambertSchulze/LambertSchulze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
