@@ -15,8 +15,6 @@ Right now I'm doing something fun by creating a 'Royal Game of Ur' clone. (It's 
 
 <!--### Hi there 👋-->
 
-<!--img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" align="center" width="250"/-->
-
 <!--
 **LambertSchulze/LambertSchulze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
